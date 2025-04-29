@@ -73,6 +73,7 @@ inference(
 
 ---
 
-### 🧑‍💻 Award
+### 🧑‍💻 result
 
 ![Award](img/award.jpg)
+![result](img/result.png)
